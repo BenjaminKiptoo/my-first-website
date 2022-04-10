@@ -2,7 +2,7 @@
 
 #### By _**Benjamin Kiptoo**_
 
-#### _{This is my first webpage which contains a list of technologies i am going to learn.}_
+#### _This is my first webpage which contains a list of technologies i am going to learn._
 
 #### Technologies used
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-_{This is my first webpage which contains a list of technologies i am going to learn.It also contains a link to my favourite things webpage which uses an img tag}_
+_This is my first webpage which contains a list of technologies i am going to learn.It also contains a link to my favourite things webpage which uses an img tag_
 
 ## Setup/Installation Requirements
 
